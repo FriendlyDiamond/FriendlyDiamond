@@ -3,8 +3,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div style="display: flex">
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height=40 alt="Java"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" height=40 alt="Maven"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height=40 alt="Java" title="Java"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" height=40 alt="Maven" title="Maven"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height=40 alt="C"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height=40 alt="C#"/>
   </div>
