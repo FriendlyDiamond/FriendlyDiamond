@@ -24,10 +24,7 @@
 </div>
 
 ### You can find me here :)
-<a href="https://www.youtube.com/@FriendlyDiamond">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-</a>
-<a href="https://www.instagram.com/" style="display: flex; align-items: center; padding: 10px; border-radius: 5px; background-image: linear-gradient(to right, #8a3ab9, #f78e69, #f5515f); color: white; text-decoration: none; font-family: Arial, sans-serif;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram Logo" style="width: 30px; height: 30px; margin-right: 10px;">
-  Instagram
-</a>
+<div style="position: relative; display: inline-block; border-radius: 5px; overflow: hidden;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram Logo" style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); width: 30px; height: 30px;">
+  <a href="https://www.instagram.com/" style="position: relative; display: inline-block; padding: 10px 40px; background-image: linear-gradient(to right, #8a3ab9, #f78e69, #f5515f); color: white; text-decoration: none; text-transform: uppercase; font-family: Arial, sans-serif;">Instagram</a>
+</div>
