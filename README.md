@@ -20,6 +20,7 @@
     <p>Currently learning: </p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height=40/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" height=40/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height=40/>
   </div>
 </div>
 
