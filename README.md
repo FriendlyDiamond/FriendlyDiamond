@@ -5,22 +5,22 @@
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height=40 alt="Java" title="Java"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" height=40 alt="Maven" title="Maven"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height=40 alt="C"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height=40 alt="C#"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height=40 alt="C" title="C"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height=40 alt="C#" title="C#"/>
   </div>
   <div>
     <p>Little experience with:</p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height=40 alt="HTML5"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height=40 alt="CSS3"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height=40 alt="JavaScript"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height=40 alt="TypeScript"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height=40 alt="React"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height=40 alt="HTML5" title="HTML"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height=40 alt="CSS3" title="CSS"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height=40 alt="JavaScript" title="JavaScript"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height=40 alt="TypeScript" title="TypeScript"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height=40 alt="React" title="React"/>
   </div>
   <div>
     <p>Currently learning: </p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height=40 alt="Docker"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" height=40 alt="Kubernetes"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height=40 alt="GitHub Actions"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height=40 alt="Docker" title="Docker"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" height=40 alt="Kubernetes" title="Kubernetes"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height=40 alt="GitHub Actions" title="GitHub Actions"/>
   </div>
 </div>
 
