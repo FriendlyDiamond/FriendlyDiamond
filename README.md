@@ -2,10 +2,12 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div style="display: flex">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height=40/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" height=40/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height=40/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height=40/>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height=40/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" height=40/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height=40/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height=40/>
+  </div>
   <div>
     <p>Little experience with:</p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height=40/>
