@@ -1,16 +1,18 @@
-### Hi there 👋
+### Welcome to my GitHub page :)
 
-<!--
-**FriendlyDiamond/FriendlyDiamond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height=40/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" height=40/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height=40/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height=40/>
+  <p>Little experience with:</p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height=40/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height=40/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height=40/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height=40/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height=40/>
+  <p>Currently learning: </p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height=40/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" height=40/>
+</div>
