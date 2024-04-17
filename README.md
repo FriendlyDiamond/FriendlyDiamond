@@ -1,7 +1,7 @@
 ### Welcome to my GitHub page :)
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div style="display: flex">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height=40/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" height=40/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height=40/>
