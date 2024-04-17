@@ -16,3 +16,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height=40/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" height=40/>
 </div>
+
+### You can find me here :)
+<a href="https://www.youtube.com/@FriendlyDiamond">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+</a>
