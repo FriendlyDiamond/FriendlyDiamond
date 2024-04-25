@@ -9,15 +9,16 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height=40 alt="C#" title="C#"/>
   </div>
   <div>
-    <p>Little experience with:</p>
+    <p> :mag: Little experience with:</p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height=40 alt="HTML5" title="HTML"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height=40 alt="CSS3" title="CSS"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height=40 alt="JavaScript" title="JavaScript"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height=40 alt="TypeScript" title="TypeScript"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height=40 alt="Next.js" title="Next.js"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height=40 alt="React" title="React"/>
   </div>
   <div>
-    <p>Currently learning: </p>
+    <p> :book: Currently learning: </p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height=40 alt="Docker" title="Docker"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" height=40 alt="Kubernetes" title="Kubernetes"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height=40 alt="GitHub Actions" title="GitHub Actions"/>
