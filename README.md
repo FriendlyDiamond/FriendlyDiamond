@@ -1,28 +1,23 @@
-### Welcome to my GitHub page :)
+### Hello there! My name is Bennet :wave:
 
-### :hammer_and_wrench: Languages and Tools :
+  <div>
+    <p> :book: I am currently studying Applied Sciences in Germany, for now B.Sc, but later M.Sc</p>
+    <p> :earth_africa: Geography Nerd :sunglasses: If you think you are good in geography, challenge me to name countries, flags or capitals </p>
+    <p> :musical_keyboard: Other than that, I really like gaming and playing the piano </p>
+  </div>
+
+### :desktop_computer: I'm alright with this stuff here 
 <div style="display: flex">
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height=40 alt="Java" title="Java"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" height=40 alt="Maven" title="Maven"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height=40 alt="C" title="C"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height=40 alt="C#" title="C#"/>
-  </div>
-  <div>
-    <p> :mag: Little experience with:</p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height=40 alt="React" title="React"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height=40 alt="HTML5" title="HTML"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height=40 alt="CSS3" title="CSS"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height=40 alt="JavaScript" title="JavaScript"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height=40 alt="TypeScript" title="TypeScript"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height=40 alt="Next.js" title="Next.js"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height=40 alt="React" title="React"/>
   </div>
-  <div>
-    <p> :book: Currently learning: </p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height=40 alt="Docker" title="Docker"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" height=40 alt="Kubernetes" title="Kubernetes"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height=40 alt="GitHub Actions" title="GitHub Actions"/>
-  </div>
+
 </div>
 
 ### You can find me here :)
