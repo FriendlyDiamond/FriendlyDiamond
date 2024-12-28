@@ -2,8 +2,6 @@
 
   <div>
     <p> :book: I am currently studying Applied Computer Sciences M.Sc in Germany</p>
-    <p> :earth_africa: Geography Nerd :sunglasses: If you think you are good in geography, challenge me to name countries, flags or capitals </p>
-    <p> :musical_keyboard: Other than that, I really like gaming and playing the piano </p>
   </div>
 
 ### :desktop_computer: I'm alright with this stuff here 
