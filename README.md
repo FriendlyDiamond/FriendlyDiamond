@@ -1,7 +1,8 @@
 ### Hello there! My name is Bennet :wave:
 
   <div>
-    <p> :book: I am currently studying Applied Computer Sciences M.Sc in Germany</p>
+    <p> :book: I am currently working on getting my master's degree in Applied Computer Sciences</p>
+    <p> :computer: Apart from that, I work as a software engineer at <a href=https://www.abat.de/>abat+</a></p>
   </div>
 
 ### :desktop_computer: I'm alright with this stuff here 
