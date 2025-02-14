@@ -8,12 +8,10 @@
 <div style="display: flex">
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height=40 alt="Java" title="Java"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" height=40 alt="Maven" title="Maven"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height=40 alt="C" title="C"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height=40 alt="Spring" title="Spring"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height=40 alt="C#" title="C#"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height=40 alt="React" title="React"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height=40 alt="HTML5" title="HTML"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height=40 alt="CSS3" title="CSS"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height=40 alt="TypeScript" title="TypeScript"/>
   </div>
 
 </div>
